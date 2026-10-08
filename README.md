@@ -1040,6 +1040,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [Global FinReg](https://www.globalfinreg.com) `https://api2.globalfinreg.com/mcp`
+  [![Global FinReg MCP connector](https://glama.ai/mcp/connectors/com.globalfinreg/lei/badges/score.svg)](https://glama.ai/mcp/connectors/com.globalfinreg/lei)
+  🔓 - Look up LEIs in the global LEI register; renew, transfer and register LEIs with a Global FinReg account.
 - [Gloom](https://gloom.sh/docs/mcp) `https://api.gloom.sh/mcp`
   [![Gloom MCP connector](https://glama.ai/mcp/connectors/sh.gloom.api/gloom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/sh.gloom.api/gloom-mcp)
   🔐 - US stock research: real-time quotes, financials, options flow, SEC filings, 13F, macro and news; tools need a paid plan.
